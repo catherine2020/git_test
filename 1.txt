@@ -1,3 +1,6 @@
 function log(){
    console.log("hello world");
 }
+function login(){
+   
+}

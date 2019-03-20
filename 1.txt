@@ -1,4 +1,4 @@
-﻿var a=10;
+﻿var a=11;
 function log(){
    console.log("hello world");
 }

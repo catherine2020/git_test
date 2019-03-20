@@ -1,2 +1,3 @@
-发地方地方大幅度梵蒂冈
-function（）
+function log(){
+   console.log("hello world");
+}

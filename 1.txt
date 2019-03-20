@@ -1,4 +1,4 @@
-﻿var a=12;
+﻿var a=13;
 function log(){
    console.log("hello world");
 }

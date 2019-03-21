@@ -13,3 +13,7 @@ function loginOut(){
 function info(){
 
 }
+//发送验证码
+function sendCode(){
+
+}

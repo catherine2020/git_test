@@ -6,3 +6,7 @@ function log(){
 function login(){
    
 }
+//注销
+function loginOut(){
+
+}

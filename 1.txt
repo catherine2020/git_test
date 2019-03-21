@@ -10,3 +10,8 @@ function login(){
 function loginOut(){
 
 }
+//发送验证码
+function sendCode(){
+
+}
+
